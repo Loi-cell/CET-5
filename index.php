@@ -60,7 +60,7 @@ session_start();
         </ul>
 
         <div class="navbar1" >
-          <button type="button" class="btn navbar-btn">
+          <button type="button" class="btn navbar-btn" onClick="location.href='wanttoknowyourfeeling.php'">
             <span class="glyphicon glyphicon-plus"></span> 
             Want to know how you're feeling?
           </button>

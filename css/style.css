@@ -86,3 +86,19 @@ footer{
     text-align: center;
     vertical-align: middle;
  }
+
+fieldset{ 
+    background-color: #d4f0f0;
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 800px;
+    margin: auto;
+}
+
+.fieldset2{ 
+    background-color: #ffffb5;
+    border: 1px solid black;
+    border-radius: 0px;
+    width: 400px;
+    margin: auto;
+}

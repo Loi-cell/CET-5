@@ -192,6 +192,19 @@
     <div>
         
         <br><h3 class="text-center">What are you actually feeling?</h3><br>
+	    
+	<fieldset style="border: 1px solid black" >
+		<h2 style="text-align:center"><b>ART OF EMOTIONS</b></h2></br>
+		<h4 style="text-align:center"> Mental health issues are not always easy to put into conventional words,
+		    which can lead to misunderstanding, stigma and isolation. But through creative 
+		    and universally-spoken mediums like art, music, writing, photography and more, 
+		    we can better communicate the pain of suffering from mental health issues, and likewise, 
+		    the freedom felt when symptoms are managed, support is given, and mental clarity is found. 
+		</h4><br>
+					
+	</fieldset>
+
+    	<br><br><br><br>
         
         <div class="video">
             <iframe src="https://www.youtube.com/embed/rSpg5Jxgjfc" frameborder="0" allowfullscreen=""></iframe><br>

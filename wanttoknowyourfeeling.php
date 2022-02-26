@@ -93,6 +93,7 @@
 
     
 
+    <fieldset style="border: 1px solid black" >
     <a id="survey">
     <section class="my-4">
         <div class="py-4">
@@ -108,7 +109,8 @@
                     <label>DATE:</label>
                     <input type="text" id="date" name="date" readonly>
                 </div>
-
+                
+                <fieldset class="fieldset2" style="border: 1px solid black" >
                 <div class="form-group">
                     <p>Little interest or pleasure in doing things</p>
                     <input type="radio" name="interest" value="Not at all" id="1" required>Not at all<br>
@@ -117,9 +119,11 @@
                     <input type="radio" name="interest" value="Nearly every day"  >Nearly every day
                     <br>
                 </div>
+                </fieldset>
 
                 <br><br>
 
+                <fieldset class="fieldset2" style="border: 1px solid black" >
                 <div class="form-group">
                     <p>Feeling down, depressed, or hopeless</p>
                     <input type="radio" name="feeling" value="Not at all"  id="2" required>Not at all<br>
@@ -128,9 +132,11 @@
                     <input type="radio" name="feeling" value="Nearly every day"  >Nearly every day
                     <br>
                 </div>
+                </fieldset>
 
                 <br><br>
 
+                <fieldset class="fieldset2" style="border: 1px solid black" >
                 <div class="form-group">
                 <p>Trouble falling or staying asleep, or sleeping too much</p>
                     <input type="radio" name="sleep" value="Not at all" id="3"  required>Not at all<br>
@@ -139,9 +145,11 @@
                     <input type="radio" name="sleep" value="Nearly every day"  >Nearly every day
                     <br>
                 </div>
+                </fieldset>
 
                 <br><br>
 
+                <fieldset class="fieldset2" style="border: 1px solid black" >
                 <div class="form-group">
                 <p>Feeling tired or having little energy</p>
                     <input type="radio" name="energy" value="Not at all"  id="4" required>Not at all<br>
@@ -149,9 +157,11 @@
                     <input type="radio" name="energy" value="More than half the days"  >More than half the days<br>
                     <input type="radio" name="energy" value="Nearly every day"  >Nearly every day
                 </div>
+                </fieldset>
 
                 <br><br>
 
+                <fieldset class="fieldset2" style="border: 1px solid black" >
                 <div class="form-group">
                 <p>Poor appetite or overeating</p>
                     <input type="radio" name="appetite" value="Not at all"  id="5" required>Not at all<br>
@@ -159,9 +169,11 @@
                     <input type="radio" name="appetite" value="More than half the days"  >More than half the days<br>
                     <input type="radio" name="appetite" value="Nearly every dayg"  >Nearly every day
                 </div>
+                </fieldset>
 
                 <br><br>
 
+                <fieldset class="fieldset2" style="border: 1px solid black" >
                 <div class="form-group">
                 <p>Feeling bad about yourself — or that you are a failure or have let yourself or your family down </p>
                     <input type="radio" name="esteem" value="Not at all" id="6"  required>Not at all<br>
@@ -169,9 +181,11 @@
                     <input type="radio" name="esteem" value="More than half the days"  >More than half the days<br>
                     <input type="radio" name="esteem" value="Nearly every day"  >Nearly every day
                 </div>
+                </fieldset>
 
                 <br><br>
 
+                <fieldset class="fieldset2" style="border: 1px solid black" >
                 <div class="form-group">
                 <p>Trouble concentrating on things, such as reading the newspaper or watching television </p>
                     <input type="radio" name="concentration" value="Not at all" id="7" required>Not at all<br>
@@ -179,9 +193,11 @@
                     <input type="radio" name="concentration" value="More than half the days"  >More than half the days<br>
                     <input type="radio" name="concentration" value="Nearly every day"  >Nearly every day
                 </div>
+                </fieldset>
 
                 <br><br>
 
+                <fieldset class="fieldset2" style="border: 1px solid black" >
                 <div class="form-group">
                 <p> Moving or speaking so slowly that other people could have noticed? Or the opposite — being so fidgety or restless that you have been moving around a lot more than usual </p>
                     <input type="radio" name="slowness" value="Not at all"  id="8" required>Not at all<br>
@@ -189,9 +205,11 @@
                     <input type="radio" name="slowness" value="More than half the days"  >More than half the days<br>
                     <input type="radio" name="slowness" value="Nearly every day"  >Nearly every day
                 </div>
+                </fieldset>
 
                 <br><br>
 
+                <fieldset class="fieldset2" style="border: 1px solid black" >
                 <div class="form-group">
                 <p>Thoughts that you would be better off dead or of hurting yourself in some way</p>
                     <input type="radio" name="thoughts" value="Not at all" id="9"  required>Not at all<br>
@@ -199,9 +217,11 @@
                     <input type="radio" name="thoughts" value="More than half the days"  >More than half the days<br>
                     <input type="radio" name="thoughts" value="Nearly every day"  >Nearly every day
                 </div>
+                </fieldset>
 
                 <br><br>
 
+                <fieldset class="fieldset2" style="border: 1px solid black" >
                 <div class="form-group">
                 <p>If you checked off any problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?</p>
                     <input type="radio" name="difficulty" value="Not at all" id="10"  required>Not difficult at all<br>
@@ -209,15 +229,18 @@
                     <input type="radio" name="difficulty" value="More than half the days"  >More than half the days<br>
                     <input type="radio" name="difficulty" value="Nearly every day"  >Nearly every day
                 </div>
+                </fieldset>
 
                 <button type="submit" class="btn btn-success">
                     Submit
                 </button>
             </form>
+        
 
         </div>
     </a>
     </section>
+    </fieldset>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>

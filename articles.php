@@ -90,18 +90,20 @@
 
               <div class="row">
     <div class="col-sm-6">
-        <div class="card">
+        <div class="card" style="width: 51rem;">
+        <img class="card-img-top" src="images/article1.jpg" alt="Card image cap">
         <div class="card-body">
-            <h5 class="card-title">50 Science-Backed Health Facts That Will Blow Your Mind</h5>
+            <h5 class="card-title"><b>50 Science-Backed Health Facts That Will Blow Your Mind</b></h5>
             <p class="card-text">FORGET THE HEALTH FADS AND THE FALLACIES. THESE FACTS ABOUT YOUR BODY AND BRAIN ARE SHOCKING, BUT TRUE.</p>
             <a href="https://bestlifeonline.com/health-facts/" class="btn btn-primary">Go here</a>
         </div>
         </div>
     </div>
     <div class="col-sm-6">
-        <div class="card">
+        <div class="card" style="width: 51rem;">
+        <img class="card-img-top" src="images/article2.png" alt="Card image cap">
         <div class="card-body">
-            <h5 class="card-title">Mental Health Facts</h5>
+            <h5 class="card-title"><b>Mental Health Facts</b></h5>
             <p class="card-text">Learn what your child might encounter while growing.</p>
             <a href="https://www.nami.org/NAMI/media/NAMI-Media/Infographics/Children-MH-Facts-NAMI.pdf" class="btn btn-primary">Go somewhere</a>
         </div>
@@ -111,18 +113,20 @@
     <br><br><br><br><br>
 
     <div class="col-sm-6">
-        <div class="card">
+        <div class="card" style="width: 51rem;">
+        <img class="card-img-top" src="images/article3.jpeg" alt="Card image cap">
         <div class="card-body">
-            <h5 class="card-title">Mental Illness Stigma, Help Seeking, and Public Health Programs</h5>
+            <h5 class="card-title"><b>Mental Illness Stigma, Help Seeking, and Public Health Programs</b></h5>
             <p class="card-text">Learn what are the effects of people whoe don't undergoes treatment.</p>
             <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3698814/" class="btn btn-primary">Go somewhere</a>
         </div>
         </div>
     </div>
     <div class="col-sm-6">
-        <div class="card">
+        <div class="card"style="width: 51rem;">
+        <img class="card-img-top" src="images/article4.jpg" alt="Card image cap">
         <div class="card-body">
-            <h5 class="card-title">World Economic Forum</h5>
+            <h5 class="card-title"><b>World Economic Forum</b></h5>
             <p class="card-text">Be a part of the community that is committed to improving the state of the world.</p>
             <a href="https://medium.com/world-economic-forum/tagged/mental-health" class="btn btn-primary">Go somewhere</a>
         </div>

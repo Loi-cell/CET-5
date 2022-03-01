@@ -87,10 +87,10 @@
     </div>
     </nav>
 
-
-              <div class="row">
+               <div class="container-fluid">
+        <div class="row">
     <div class="col-sm-6">
-        <div class="card" style="width: 51rem;">
+        <div class="card" style="width: 100%; height:100%;">
         <img class="card-img-top" src="images/article1.jpg" alt="Card image cap">
         <div class="card-body">
             <h5 class="card-title"><b>50 Science-Backed Health Facts That Will Blow Your Mind</b></h5>
@@ -100,7 +100,7 @@
         </div>
     </div>
     <div class="col-sm-6">
-        <div class="card" style="width: 51rem;">
+        <div class="card" style="width: 100%; height:100%;">
         <img class="card-img-top" src="images/article2.png" alt="Card image cap">
         <div class="card-body">
             <h5 class="card-title"><b>Mental Health Facts</b></h5>
@@ -109,11 +109,15 @@
         </div>
         </div>
     </div>
+    </div>
+    </div>
 
-    <br><br><br><br><br>
+    <br><br>
 
+    <div class="container-fluid">
+        <div class="row">
     <div class="col-sm-6">
-        <div class="card" style="width: 51rem;">
+        <div class="card" style="width: 100%; height:100%;">
         <img class="card-img-top" src="images/article3.jpeg" alt="Card image cap">
         <div class="card-body">
             <h5 class="card-title"><b>Mental Illness Stigma, Help Seeking, and Public Health Programs</b></h5>
@@ -123,7 +127,7 @@
         </div>
     </div>
     <div class="col-sm-6">
-        <div class="card"style="width: 51rem;">
+        <div class="card"style="width: 100%; height:100%;">
         <img class="card-img-top" src="images/article4.jpg" alt="Card image cap">
         <div class="card-body">
             <h5 class="card-title"><b>World Economic Forum</b></h5>
@@ -131,6 +135,7 @@
             <a href="https://medium.com/world-economic-forum/tagged/mental-health" class="btn btn-primary">Go somewhere</a>
         </div>
         </div>
+    </div>
     </div>
     </div>
 
